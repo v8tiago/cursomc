@@ -1,4 +1,4 @@
-package com.tiagoarruda.cursomc.exceptions;
+package com.tiagoarruda.cursomc.services.exceptions;
 
 public class ObjectNotFoundException extends RuntimeException{
 
